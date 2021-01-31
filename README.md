@@ -71,5 +71,5 @@ Here are the results of the machine learning models which were studied.
 
 
 ## Summary
-There is always going to be a tension between precision and recall. I was interested in the results for SMOTE because the numbers for both the high risk and low risk applicants were closest together. The two ensemble algorithms produced identical results, so I am not sure I will pursue either of those. I would like to continue reviewing the oversampling, undersampling and combination over- and undersampling algorithms until I find one which is similar to SMOTE, but that has a higher balanced accuracy score.
+There is always going to be a tension between precision and recall. I was interested in the results for SMOTE because the recall numbers for both the high risk and low risk applicants were closest together. The two ensemble algorithms produced identical results, so I am not sure I will pursue either of those. I would like to continue reviewing the oversampling, undersampling and combination over- and undersampling algorithms until I find one which is similar to SMOTE, but that has a higher balanced accuracy score.
 
